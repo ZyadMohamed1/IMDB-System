@@ -1,0 +1,105 @@
+D:\Software Eng project\imdb\imdb\bin\Debug\imdb.exe.config
+D:\Software Eng project\imdb\imdb\bin\Debug\imdb.exe
+D:\Software Eng project\imdb\imdb\bin\Debug\imdb.pdb
+D:\Software Eng project\imdb\imdb\obj\Debug\imdb.Form1.resources
+D:\Software Eng project\imdb\imdb\obj\Debug\imdb.Properties.Resources.resources
+D:\Software Eng project\imdb\imdb\obj\Debug\imdb.csproj.GenerateResource.cache
+D:\Software Eng project\imdb\imdb\obj\Debug\imdb.csproj.CoreCompileInputs.cache
+D:\Software Eng project\imdb\imdb\obj\Debug\imdb.exe
+D:\Software Eng project\imdb\imdb\obj\Debug\imdb.pdb
+D:\Software Eng project\imdb\imdb\bin\Debug\Oracle.DataAccess.dll
+D:\Software Eng project\imdb\imdb\obj\Debug\imdb.csproj.CopyComplete
+D:\Software Eng project\imdb\imdb\obj\Debug\imdb.csproj.AssemblyReference.cache
+D:\Software Eng project\imdb\imdb\obj\Debug\imdb.AdminForm.resources
+D:\Software Eng project\imdb\imdb\obj\Debug\imdb.LoginForm.resources
+D:\Software Eng project\imdb\imdb\obj\Debug\imdb.RegisterForm.resources
+D:\Software Eng project\imdb\imdb\obj\Debug\imdb.mainForm.resources
+D:\6th semester\Data Mining\imdb\imdb\bin\Debug\imdb.exe.config
+D:\6th semester\Data Mining\imdb\imdb\obj\Debug\imdb.exe
+D:\6th semester\Data Mining\imdb\imdb\obj\Debug\imdb.pdb
+D:\6th semester\Data Mining\imdb\imdb\bin\Debug\imdb.exe
+D:\6th semester\Data Mining\imdb\imdb\bin\Debug\imdb.pdb
+D:\6th semester\Data Mining\imdb\imdb\obj\Debug\imdb.csprojResolveAssemblyReference.cache
+D:\6th semester\Data Mining\imdb\imdb\obj\Debug\imdb.AdminForm.resources
+D:\6th semester\Data Mining\imdb\imdb\obj\Debug\imdb.Form1.resources
+D:\6th semester\Data Mining\imdb\imdb\obj\Debug\imdb.mainForm.resources
+D:\6th semester\Data Mining\imdb\imdb\obj\Debug\imdb.Properties.Resources.resources
+D:\6th semester\Data Mining\imdb\imdb\obj\Debug\imdb.RegisterForm.resources
+D:\6th semester\Data Mining\imdb\imdb\obj\Debug\imdb.csproj.GenerateResource.Cache
+D:\6th semester\Data Mining\imdb\imdb\obj\Debug\imdb.CommonClass.resources
+C:\Users\I.T HOME\Downloads\imdb\imdb\imdb\bin\Debug\imdb.exe.config
+C:\Users\I.T HOME\Downloads\imdb\imdb\imdb\obj\Debug\imdb.exe
+C:\Users\I.T HOME\Downloads\imdb\imdb\imdb\obj\Debug\imdb.pdb
+C:\Users\I.T HOME\Downloads\imdb\imdb\imdb\bin\Debug\imdb.exe
+C:\Users\I.T HOME\Downloads\imdb\imdb\imdb\bin\Debug\imdb.pdb
+C:\Users\I.T HOME\Downloads\imdb\imdb\imdb\obj\Debug\imdb.csprojResolveAssemblyReference.cache
+C:\Users\I.T HOME\Downloads\imdb\imdb\imdb\obj\Debug\imdb.AdminForm.resources
+C:\Users\I.T HOME\Downloads\imdb\imdb\imdb\obj\Debug\imdb.CommonClass.resources
+C:\Users\I.T HOME\Downloads\imdb\imdb\imdb\obj\Debug\imdb.MainForm.resources
+C:\Users\I.T HOME\Downloads\imdb\imdb\imdb\obj\Debug\imdb.Properties.Resources.resources
+C:\Users\I.T HOME\Downloads\imdb\imdb\imdb\obj\Debug\imdb.RegisterForm.resources
+C:\Users\I.T HOME\Downloads\imdb\imdb\imdb\obj\Debug\imdb.csproj.GenerateResource.Cache
+D:\6th semester\SW\imdb\imdb\imdb\bin\Debug\imdb.exe.config
+D:\6th semester\SW\imdb\imdb\imdb\obj\Debug\imdb.exe
+D:\6th semester\SW\imdb\imdb\imdb\obj\Debug\imdb.pdb
+D:\6th semester\SW\imdb\imdb\imdb\bin\Debug\imdb.exe
+D:\6th semester\SW\imdb\imdb\imdb\bin\Debug\imdb.pdb
+D:\6th semester\SW\imdb\imdb\imdb\obj\Debug\imdb.csprojResolveAssemblyReference.cache
+D:\6th semester\SW\imdb\imdb\imdb\obj\Debug\imdb.AdminForm.resources
+D:\6th semester\SW\imdb\imdb\imdb\obj\Debug\imdb.CommonClass.resources
+D:\6th semester\SW\imdb\imdb\imdb\obj\Debug\imdb.MainForm.resources
+D:\6th semester\SW\imdb\imdb\imdb\obj\Debug\imdb.Properties.Resources.resources
+D:\6th semester\SW\imdb\imdb\imdb\obj\Debug\imdb.RegisterForm.resources
+D:\6th semester\SW\imdb\imdb\imdb\obj\Debug\imdb.csproj.GenerateResource.Cache
+D:\6th semester\SW\imdb\imdb\imdb\obj\Debug\imdb.crystal1.resources
+D:\6th semester\SW\imdb\imdb\imdb\obj\Debug\imdb.crystal2.resources
+C:\Users\I.T HOME\Downloads\imdb\imdb\imdb\imdb\bin\Debug\imdb.exe.config
+C:\Users\I.T HOME\Downloads\imdb\imdb\imdb\imdb\obj\Debug\imdb.exe
+C:\Users\I.T HOME\Downloads\imdb\imdb\imdb\imdb\obj\Debug\imdb.pdb
+C:\Users\I.T HOME\Downloads\imdb\imdb\imdb\imdb\bin\Debug\imdb.exe
+C:\Users\I.T HOME\Downloads\imdb\imdb\imdb\imdb\bin\Debug\imdb.pdb
+C:\Users\I.T HOME\Downloads\imdb\imdb\imdb\imdb\obj\Debug\imdb.csprojResolveAssemblyReference.cache
+C:\Users\I.T HOME\Downloads\imdb\imdb\imdb\imdb\obj\Debug\imdb.AdminForm.resources
+C:\Users\I.T HOME\Downloads\imdb\imdb\imdb\imdb\obj\Debug\imdb.crystal1.resources
+C:\Users\I.T HOME\Downloads\imdb\imdb\imdb\imdb\obj\Debug\imdb.crystal2.resources
+C:\Users\I.T HOME\Downloads\imdb\imdb\imdb\imdb\obj\Debug\imdb.CommonClass.resources
+C:\Users\I.T HOME\Downloads\imdb\imdb\imdb\imdb\obj\Debug\imdb.MainForm.resources
+C:\Users\I.T HOME\Downloads\imdb\imdb\imdb\imdb\obj\Debug\imdb.Properties.Resources.resources
+C:\Users\I.T HOME\Downloads\imdb\imdb\imdb\imdb\obj\Debug\imdb.RegisterForm.resources
+C:\Users\I.T HOME\Downloads\imdb\imdb\imdb\imdb\obj\Debug\imdb.csproj.GenerateResource.Cache
+D:\Bio_34_imdb\imdb\imdb\imdb\imdb\bin\Debug\imdb.exe.config
+D:\Bio_34_imdb\imdb\imdb\imdb\imdb\bin\Debug\imdb.exe
+D:\Bio_34_imdb\imdb\imdb\imdb\imdb\bin\Debug\imdb.pdb
+D:\Bio_34_imdb\imdb\imdb\imdb\imdb\bin\Debug\AxShockwaveFlashObjects.dll
+D:\Bio_34_imdb\imdb\imdb\imdb\imdb\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+D:\Bio_34_imdb\imdb\imdb\imdb\imdb\bin\Debug\CrystalDecisions.ReportSource.dll
+D:\Bio_34_imdb\imdb\imdb\imdb\imdb\bin\Debug\CrystalDecisions.Shared.dll
+D:\Bio_34_imdb\imdb\imdb\imdb\imdb\bin\Debug\CrystalDecisions.Windows.Forms.dll
+D:\Bio_34_imdb\imdb\imdb\imdb\imdb\bin\Debug\Oracle.DataAccess.dll
+D:\Bio_34_imdb\imdb\imdb\imdb\imdb\bin\Debug\ShockwaveFlashObjects.dll
+D:\Bio_34_imdb\imdb\imdb\imdb\imdb\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+D:\Bio_34_imdb\imdb\imdb\imdb\imdb\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+D:\Bio_34_imdb\imdb\imdb\imdb\imdb\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+D:\Bio_34_imdb\imdb\imdb\imdb\imdb\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+D:\Bio_34_imdb\imdb\imdb\imdb\imdb\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+D:\Bio_34_imdb\imdb\imdb\imdb\imdb\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+D:\Bio_34_imdb\imdb\imdb\imdb\imdb\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+D:\Bio_34_imdb\imdb\imdb\imdb\imdb\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+D:\Bio_34_imdb\imdb\imdb\imdb\imdb\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+D:\Bio_34_imdb\imdb\imdb\imdb\imdb\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+D:\Bio_34_imdb\imdb\imdb\imdb\imdb\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+D:\Bio_34_imdb\imdb\imdb\imdb\imdb\bin\Debug\stdole.dll
+D:\Bio_34_imdb\imdb\imdb\imdb\imdb\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+D:\Bio_34_imdb\imdb\imdb\imdb\imdb\obj\Debug\imdb.csproj.AssemblyReference.cache
+D:\Bio_34_imdb\imdb\imdb\imdb\imdb\obj\Debug\imdb.AdminForm.resources
+D:\Bio_34_imdb\imdb\imdb\imdb\imdb\obj\Debug\imdb.crystal1.resources
+D:\Bio_34_imdb\imdb\imdb\imdb\imdb\obj\Debug\imdb.crystal2.resources
+D:\Bio_34_imdb\imdb\imdb\imdb\imdb\obj\Debug\imdb.CommonClass.resources
+D:\Bio_34_imdb\imdb\imdb\imdb\imdb\obj\Debug\imdb.MainForm.resources
+D:\Bio_34_imdb\imdb\imdb\imdb\imdb\obj\Debug\imdb.Properties.Resources.resources
+D:\Bio_34_imdb\imdb\imdb\imdb\imdb\obj\Debug\imdb.RegisterForm.resources
+D:\Bio_34_imdb\imdb\imdb\imdb\imdb\obj\Debug\imdb.csproj.GenerateResource.cache
+D:\Bio_34_imdb\imdb\imdb\imdb\imdb\obj\Debug\imdb.csproj.CoreCompileInputs.cache
+D:\Bio_34_imdb\imdb\imdb\imdb\imdb\obj\Debug\imdb.csproj.CopyComplete
+D:\Bio_34_imdb\imdb\imdb\imdb\imdb\obj\Debug\imdb.exe
+D:\Bio_34_imdb\imdb\imdb\imdb\imdb\obj\Debug\imdb.pdb
